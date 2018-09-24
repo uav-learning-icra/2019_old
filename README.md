@@ -1,7 +1,12 @@
-## Learning in-the-Loop for Safe, Agile Autonomous Flight
+# Learning in-the-Loop for Safe, Agile Autonomous Flight
 
-International Conference on Robotics and Automation (ICRA) 2019 Proposed Workshop
+International Conference on Robotics and Automation (ICRA) 2019 Proposed Full-Day Workshop
 
-### Markdown
+## Workshop Objectives
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Workshop Details
+
+## Intended Audience
+
+## Call for Papers
+

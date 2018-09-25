@@ -2,6 +2,8 @@
 
 International Conference on Robotics and Automation (ICRA) 2019 Proposed Full-Day Workshop
 
+More information soon! 
+
 ## Workshop Objectives
 
 ## Workshop Details

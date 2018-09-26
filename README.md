@@ -2,8 +2,6 @@
 
 International Conference on Robotics and Automation (ICRA) 2019 Proposed Full-Day Workshop
 
-More information soon! 
-
 ## Abstract
 
 In past years, model-based techniques have successfully endowed aerial robots with impressive capabilities like high-speed navigation through unknown environments. However, task specifications, like goal positions, are often still hand-engineered.

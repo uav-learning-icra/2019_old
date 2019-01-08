@@ -5,8 +5,11 @@ International Conference on Robotics and Automation (ICRA) 2019 Full-Day Worksho
 ## Organizers 
 
 Dr. Aleksandra Faust, Senior Research Scientist, Google Brain, http://www.afaust.info
+
 Dr. Vijay Janapa Reddi, Associate Professor in Electrical Engineering, Harvard University, https://www.seas.harvard.edu/directory/vjanapa-reddi
+
 Dr. Angela Schoellig, Assistant Professor, University of Toronto, http://www.dynsyslab.org/prof-angela-schoellig/
+
 Dr. Sarah Tang, University of Pennsylvania/Nuro, Inc., http://www.sarahtang.net
 
 ## Abstract

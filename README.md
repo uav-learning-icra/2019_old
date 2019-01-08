@@ -1,6 +1,6 @@
 # Algorithms and Architectures for Learning in-the-Loop Systems in Autonomous Flight
 
-International Conference on Robotics and Automation (ICRA) 2019 Full-Day Workshop
+International Conference on Robotics and Automation (ICRA) 2019 Accepted Full-Day Workshop
 
 ## Organizers 
 

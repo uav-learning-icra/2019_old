@@ -1,6 +1,13 @@
 # Algorithms and Architectures for Learning in-the-Loop Systems in Autonomous Flight
 
-International Conference on Robotics and Automation (ICRA) 2019 Proposed Full-Day Workshop
+International Conference on Robotics and Automation (ICRA) 2019 Full-Day Workshop
+
+## Organizers 
+
+Dr. Aleksandra Faust, Senior Research Scientist, Google Brain, http://www.afaust.info
+Dr. Vijay Janapa Reddi, Associate Professor in Electrical Engineering, Harvard University, https://www.seas.harvard.edu/directory/vjanapa-reddi
+Dr. Angela Schoellig, Assistant Professor, University of Toronto, http://www.dynsyslab.org/prof-angela-schoellig/
+Dr. Sarah Tang, University of Pennsylvania/Nuro, Inc., http://www.sarahtang.net
 
 ## Abstract
 
@@ -19,9 +26,9 @@ This workshop aims to bring together researchers in the complementary fields of 
 ## Workshop Objectives
 
 The objectives of this workshop are to:
-* Discuss questions posed in Section~\ref{sec: objectives} from the diverse perspectives of aerial robotics, learning, and systems researchers across academia, government, and industry
+* Discuss the aforementioned themes from the diverse perspectives of aerial robotics, learning, and systems researchers across academia, government, and industry
 * Present state-of-the-art research results related to learning-in-the-loop for UAVs through keynote talks from leaders of related fields and contributed talks and posters
-* Share details about, mistakes made, and ``lessons learned" in hardware set-ups and software architectures that regular conference papers typically do not have space to expand on
+* Share details about, mistakes made, and "lessons learned" in hardware set-ups and software architectures that regular conference papers typically do not have space to expand on
 * Stimulate and accelerate research in the learning for UAVs
 
 ## Invited Speakers

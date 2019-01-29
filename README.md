@@ -34,10 +34,28 @@ The objectives of this workshop are to:
 * Share details about, mistakes made, and "lessons learned" in hardware set-ups and software architectures that regular conference papers typically do not have space to expand on
 * Stimulate and accelerate research in the learning for UAVs
 
-## Invited Speakers
-
-We will host invited speakers that give a broad view of the state-of-the-art. This will include academic faculty leading research groups that have demonstrated cutting-edge results in autonomous flight, as well as industry speakers on the commercial side and research side of UAV innovation. We believe this diversity will greatly benefit the workshop's audience.  
+We will host invited speakers that give a broad view of the state-of-the-art. This will include academic faculty as well as industry speakers on the commercial side and research side of UAV innovation. 
 
 ## Call for Papers
 
-We will invite participants to submit extended abstracts to be presented at the workshop. More information to come! 
+We are soliciting submissions of 4-page short papers (not including references) with up to a 2-minute accompanying video. Possible topics of interest include, but are not limited to: 
+- Combining model-based and model-free methods for autonomous flight
+- Online learning and adaptation in mapping, perception, planning, and/or control for UAVs
+- End-to-end learning of perception-action loops for flight
+-Sample ecient learning on flying robots
+- Learning for high-level autonomy in applications such as (but not limited to) disaster response, cinematography, search and rescue, environmental monitoring, aerial manipulation, agriculture, and inspection
+- Closed-loop analysis learning-in-the-loop systems
+- Metrics for evaluating the benefits of incorporating learning into perception-action loops or
+incorporating models into learning algorithms
+- Challenges implementing learning algorithms in real-time on sensorimotor systems
+- Novel architectures that use multi-agent networks or the cloud to decentralize demanding computations
+- Insights into architecture design, system component choice, and implementation details
+(including “failed designs") of real-time learning-in-the-loop algorithms
+
+We strongly prefer work featuring experimental validation (including initial preliminary results) but will also consider simulation-only papers that convincingly address why the utilized simulator is a compelling representation of real-world conditions. We especially encourage papers that share valuable “failure analyses" or “lessons learned" that would benefit the community. We welcome work at all stages of research, including work-in-progress and recently accepted or published results. 
+
+## Important Dates
+
+Paper submission deadline: 1-Mar-2019
+Author notification: 25-Apr-2019
+Workshop: 23 or 24-May-2019

@@ -42,7 +42,7 @@ We are soliciting submissions of 4-page short papers (not including references) 
 - Combining model-based and model-free methods for autonomous flight
 - Online learning and adaptation in mapping, perception, planning, and/or control for UAVs
 - End-to-end learning of perception-action loops for flight
--Sample ecient learning on flying robots
+- Sample efficient learning on flying robots
 - Learning for high-level autonomy in applications such as (but not limited to) disaster response, cinematography, search and rescue, environmental monitoring, aerial manipulation, agriculture, and inspection
 - Closed-loop analysis learning-in-the-loop systems
 - Metrics for evaluating the benefits of incorporating learning into perception-action loops or

@@ -56,7 +56,7 @@ We strongly prefer work featuring experimental validation (including initial pre
 
 ## Important Dates
 
-Paper submission deadline: 1-Mar-2019
+Paper submission deadline: 24-Mar-2019
 
 Author notification: 25-Apr-2019
 

@@ -60,6 +60,6 @@ Paper submission deadline: 24-Mar-2019
 
 Author notification: 25-Apr-2019
 
-Workshop: 23 or 24-May-2019
+Workshop: 24-May-2019
 
 Submission link: https://easychair.org/my/conference.cgi?conf=lsaf19

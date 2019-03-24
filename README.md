@@ -63,3 +63,9 @@ Author notification: 25-Apr-2019
 Workshop: 24-May-2019
 
 Submission link: https://easychair.org/my/conference.cgi?conf=lsaf19
+
+Paper submission instructions: IEEE templates for [LaTeX](http://ras.papercept.net/conferences/support/tex.php) and [MS-Word](http://ras.papercept.net/conferences/support/word.php) are available from the IEEE PaperPlaza website. Final submissions should be in pdf format. 
+
+Video submission instructions: Please include a link to any videos in the text of the submission. Videos can be uploaded to Youtube (as an unlisted video), Dropbox, Google Drive, or a personal webpage. Please make sure to verify video permission settings. 
+
+Any additional questions can be directed to: lsaf19@easychair.org

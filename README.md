@@ -2,16 +2,6 @@
 
 International Conference on Robotics and Automation (ICRA) 2019 Accepted Full-Day Workshop
 
-## Organizers 
-
-Dr. Aleksandra Faust, Senior Research Scientist, Google Brain, faust@google.com,  http://www.afaust.info
-
-Dr. Vijay Janapa Reddi, Associate Professor in Electrical Engineering, Harvard University, vjreddi@seas.harvard.edu, https://www.seas.harvard.edu/directory/vjanapa-reddi
-
-Dr. Angela Schoellig, Assistant Professor, University of Toronto, schoellig@utias.utoronto.ca, http://www.dynsyslab.org/prof-angela-schoellig/
-
-Dr. Sarah Tang, University of Pennsylvania/Nuro, Inc., sytang@alumni.seas.upenn.edu, http://www.sarahtang.net
-
 ## Abstract
 
 In past years, model-based techniques have successfully endowed aerial robots with impressive capabilities like high-speed navigation through unknown environments. However, task specifications, like goal positions, are often still hand-engineered.
@@ -69,3 +59,13 @@ Paper submission instructions: IEEE templates for [LaTeX](http://ras.papercept.n
 Video submission instructions: Please include a link to any videos in the text of the submission. Videos can be uploaded to Youtube (as an unlisted video), Dropbox, Google Drive, or a personal webpage. Please make sure to verify video permission settings. 
 
 Any additional questions can be directed to: lsaf19@easychair.org
+
+## Organizers 
+
+Dr. Aleksandra Faust, Senior Research Scientist, Google Brain, faust@google.com,  http://www.afaust.info
+
+Dr. Vijay Janapa Reddi, Associate Professor in Electrical Engineering, Harvard University, vjreddi@seas.harvard.edu, https://www.seas.harvard.edu/directory/vjanapa-reddi
+
+Dr. Angela Schoellig, Assistant Professor, University of Toronto, schoellig@utias.utoronto.ca, http://www.dynsyslab.org/prof-angela-schoellig/
+
+Dr. Sarah Tang, University of Pennsylvania/Nuro, Inc., sytang@alumni.seas.upenn.edu, http://www.sarahtang.net

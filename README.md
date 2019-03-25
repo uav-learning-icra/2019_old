@@ -46,9 +46,9 @@ We strongly prefer work featuring experimental validation (including initial pre
 
 ## Important Dates
 
-Paper submission deadline: 24-Mar-2019, 11:59PM Anywhere on Earth (AOE)
+Paper submission deadline: ~~24-Mar-2019, 11:59PM Anywhere on Earth (AOE)~~ EXTENDED: 7-Apr-2019, 11:59PM Anywhere on Earth (AOE)
 
-Author notification: 25-Apr-2019
+Author notification: ~~25-Apr-2019~~ 29-Apr-2019
 
 Workshop: 24-May-2019
 

@@ -42,7 +42,7 @@ incorporating models into learning algorithms
 - Insights into architecture design, system component choice, and implementation details
 (including “failed designs") of real-time learning-in-the-loop algorithms
 
-We welcome work with experimental validation (including initial preliminary results) or addressing challenges associated with real-world implememtation. We also welcome simulation-only papers that convincingly address why the utilized simulator is a compelling representation of real-world conditions and papers with validation on other robotics platforms that could be applied to UAVs. We especially encourage papers that share valuable “failure analyses" or “lessons learned" that would benefit the community. We welcome work at all stages of research, including work-in-progress and recently accepted or published results. 
+We welcome work with experimental validation (including initial preliminary results) or addressing challenges associated with real-world implementation. We also welcome simulation-only papers that convincingly address why the utilized simulator is a compelling representation of real-world conditions and papers with validation on other robotics platforms that could be applied to UAVs. We especially encourage papers that share valuable “failure analyses" or “lessons learned" that would benefit the community. We welcome work at all stages of research, including work-in-progress and recently accepted or published results. 
 
 ## Important Dates
 

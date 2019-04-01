@@ -11,8 +11,8 @@ To achieve true autonomy in applications such as disaster response and environme
 Furthermore, maintaining high thrust-to-weight ratios for agility directly contradicts the need to carry sensor and computation resources, making hardware and software architecture equally crucial decisions.
 
 This workshop aims to bring together researchers in the complementary fields of aerial robotics, learning, and systems to discuss the following themes: 
-* Learning for flight - How should learning be incorporated into UAVs' perception-action loops?
-* Structure in learning - How can models, structure, and priors enhance learning on UAVs? 
+* Learning for autonomous robots - How should learning be incorporated into robots' perception-action loops?
+* Structure in learning - How can models, structure, and priors enhance learning on robots? 
 * Performance guarantees - How can we analyze closed-loop performance of learning-in-the-loop systems
 * Software+hardware co-design - How can we implement learning algorithms on resource-constrained UAVs? How should we simultaneously optimize algorithms and hardware choices to create lightweight, but highly-capable, UAVs?
 
@@ -29,7 +29,7 @@ We will host invited speakers that give a broad view of the state-of-the-art. Th
 ## Call for Papers
 
 We are soliciting submissions of 4-page short papers (not including references) with up to a 2-minute accompanying video. Possible topics of interest include, but are not limited to: 
-- Combining model-based and model-free methods for autonomous flight
+- Combining model-based and model-free methods for autonomous robotics
 - Online learning and adaptation in mapping, perception, planning, and/or control for UAVs
 - End-to-end learning of perception-action loops for flight
 - Sample efficient learning on flying robots
@@ -42,7 +42,7 @@ incorporating models into learning algorithms
 - Insights into architecture design, system component choice, and implementation details
 (including “failed designs") of real-time learning-in-the-loop algorithms
 
-We strongly prefer work with experimental validation (including initial preliminary results) or addressing challenges associated with real-world implememtation. We welcome simulation-only papers that convincingly address why the utilized simulator is a compelling representation of real-world conditions and papers with validation on other robotics platforms that could be applied to UAVs. We especially encourage papers that share valuable “failure analyses" or “lessons learned" that would benefit the community. We welcome work at all stages of research, including work-in-progress and recently accepted or published results. 
+We welcome work with experimental validation (including initial preliminary results) or addressing challenges associated with real-world implememtation. We also welcome simulation-only papers that convincingly address why the utilized simulator is a compelling representation of real-world conditions and papers with validation on other robotics platforms that could be applied to UAVs. We especially encourage papers that share valuable “failure analyses" or “lessons learned" that would benefit the community. We welcome work at all stages of research, including work-in-progress and recently accepted or published results. 
 
 ## Important Dates
 

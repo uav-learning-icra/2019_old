@@ -2,6 +2,8 @@
 
 International Conference on Robotics and Automation (ICRA) 2019 Accepted Full-Day Workshop
 
+Room 520d
+
 ## Abstract
 
 In past years, model-based techniques have successfully endowed aerial robots with impressive capabilities like high-speed navigation through unknown environments. However, task specifications, like goal positions, are often still hand-engineered.
@@ -22,7 +24,7 @@ This workshop aims to bring together researchers in the complementary fields of 
 
 [Dr. Lydia Tapia](https://www.cs.unm.edu/tapialab/People/tapia/index.php), Associate Professor, Department of Computer Science at the University of New Mexico
 
-[Skydio, Inc.](https://www.skydio.com/)
+[Gareth Cross](https://www.skydio.com/), Computer Vision Engineer, Skydio, Inc.
 
 ## Workshop Objectives
 

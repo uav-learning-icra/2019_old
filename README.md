@@ -16,6 +16,14 @@ This workshop aims to bring together researchers in the complementary fields of 
 * Performance guarantees - How can we analyze closed-loop performance of learning-in-the-loop systems
 * Software+hardware co-design - How can we implement learning algorithms on resource-constrained UAVs? How should we simultaneously optimize algorithms and hardware choices to create lightweight, but highly-capable, UAVs?
 
+## Keynote Speakers
+
+[Dr. Ashish Kapoor](https://www.microsoft.com/en-us/research/people/akapoor/), Principal Researcher, Microsoft Research 
+
+[Dr. Lydia Tapia](https://www.cs.unm.edu/tapialab/People/tapia/index.php), Associate Professor, Department of Computer Science at the University of New Mexico
+
+[Skydio, Inc.](https://www.skydio.com/)
+
 ## Workshop Objectives
 
 The objectives of this workshop are to:
@@ -48,7 +56,7 @@ We welcome work with experimental validation (including initial preliminary resu
 
 Paper submission deadline: ~~24-Mar-2019, 11:59PM Anywhere on Earth (AOE)~~ EXTENDED: 7-Apr-2019, 11:59PM Anywhere on Earth (AOE)
 
-Author notification: ~~25-Apr-2019~~ 29-Apr-2019
+Author notification: ~~25-Apr-2019~~ 3-May-2019
 
 Workshop: 24-May-2019
 
@@ -62,10 +70,10 @@ Any additional questions can be directed to: lsaf19@easychair.org
 
 ## Organizers 
 
-Dr. Aleksandra Faust, Senior Research Scientist, Google Brain, faust@google.com,  http://www.afaust.info
+[Dr. Aleksandra Faust](http://www.afaust.info), Senior Research Scientist, Google Brain, faust@google.com
 
-Dr. Vijay Janapa Reddi, Associate Professor in Electrical Engineering, Harvard University, vjreddi@seas.harvard.edu, https://www.seas.harvard.edu/directory/vjanapa-reddi
+[Dr. Vijay Janapa Reddi](https://www.seas.harvard.edu/directory/vjanapa-reddi), Associate Professor in Electrical Engineering, Harvard University, vjreddi@seas.harvard.edu
 
-Dr. Angela Schoellig, Assistant Professor, University of Toronto, schoellig@utias.utoronto.ca, http://www.dynsyslab.org/prof-angela-schoellig/
+[Dr. Angela Schoellig](http://www.dynsyslab.org/prof-angela-schoellig/), Assistant Professor, University of Toronto, schoellig@utias.utoronto.ca
 
-Dr. Sarah Tang, University of Pennsylvania/Nuro, Inc., sytang@alumni.seas.upenn.edu, http://www.sarahtang.net
+[Dr. Sarah Tang](http://www.sarahtang.net), University of Pennsylvania/Nuro, Inc., sytang@alumni.seas.upenn.edu
